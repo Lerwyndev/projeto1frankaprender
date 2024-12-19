@@ -1,2 +1,6 @@
 OLA MEU NOME É FRANK moreno
 ola eu sou uma nova linha
+
+
+digite sua senha
+digite sua idade
